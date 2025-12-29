@@ -2,7 +2,7 @@ import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 function Footer(){
     return(
-        <Box sx={{background:"darkRed", p:3}} component="footer"> 
+        <Box sx={{background:"darkRed", p:5}} component="footer"> 
          <Typography variant="h5" component="h4"
           sx={{fontStyle:"italic", 
                 fontFamily:"serif",
