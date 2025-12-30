@@ -11,6 +11,9 @@ function Home() {
         <Box id="about">
             <About />
         </Box>
+        <Box id="contact">
+          <Contact />
+        </Box>
         <Box>
           <Footer />
         </Box>
